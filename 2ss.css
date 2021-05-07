@@ -1,0 +1,29 @@
+h1{padding: 80px; text-align:center;}
+body {background-color: navy;}
+
+td{
+	font-size: 15px;
+	padding: 25px;
+	color:cyan;
+	font-family: Courier New
+}
+p{
+	font-size: 20px;
+	padding: 0px;
+	color:cyan;
+	font-family: Courier New
+}
+thead{
+	font-size: 120%;
+	padding: 25px;
+	color:cyan;
+	font-family: Courier New
+}
+table, th, td {
+    border: 2px solid pink;
+    border-collapse: collapse;
+}
+th, td {
+    padding:9px;
+    text-align: right;
+}

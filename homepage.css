@@ -1,0 +1,54 @@
+h1{padding: 80px; text-align:center;}
+body {background-color: navy;}
+
+ul{font-size: 15px;
+	padding: 25px;
+	color:cyan;
+	font-family: Courier New
+
+}
+img{
+	height: 250px;
+	width: 250px;
+}
+td{
+	font-size: 15px;
+	padding: 25px;
+	color:cyan;
+	font-family: Courier New
+}
+p{
+	font-size: 20px;
+	padding: 0px;
+	color:cyan;
+	font-family: Courier New
+}
+thead{
+	font-size: 120%;
+	padding: 25px;
+	color:cyan;
+	font-family: Courier New
+}
+table, th, td {
+    border: 2px solid pink;
+    border-collapse: collapse;
+}
+th, td {
+    padding:9px;
+    text-align: right;
+}
+button{
+	border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20%
+}
+button[type=submit]:hover {
+  background-color: blue;
+}
