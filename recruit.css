@@ -1,22 +1,22 @@
 h1{padding: 80px; text-align:center;}
-body {background-color: orange;}
+body {background-color: #004d4d;}
 
 td{
 	font-size: 15px;
 	padding: 25px;
-	color:purple;
+	color:#ff4dff;
 	font-family: Courier New
 }
 p{
 	font-size: 20px;
 	padding: 0px;
-	color:purple;
+	color:#ff4dff;
 	font-family: Courier New
 }
 thead{
 	font-size: 140%;
 	padding: 25px;
-	color:purple;
+	color:#ff4dff;
 	font-family: Courier New
 }
 table, th, td {
